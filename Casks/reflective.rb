@@ -6,8 +6,8 @@
 #   brew install jezzlucena/tap/reflective
 
 cask "reflective" do
-  version "1.0.0"
-  sha256 "8d39dfe6225ec372859541fc18386e53f74780e40b16f47e4d0088a5156536da"
+  version "1.0.1"
+  sha256 "8b774e61bc60252f2eb60f063b4ee67d47d52d3259d7a9328c09460dda379778"
 
   url "https://github.com/jezzlucena/Reflective/releases/download/v#{version}/Reflective.zip"
   name "Reflective"
